@@ -2,7 +2,7 @@
 
 ## Introduction
 
-My pronouns are he/him and you can call me Josh.
+My pronouns are he/him, and you can call me Josh.
 
 I have about ten years of IT experience. I served eight years active duty in the USAF, where I worked positions such as Network Manager, IT Project Manager, Digital Systems Technician, and intelligence unit maintainer. After getting out, I worked for a year at the Port of Seattle as an Infrastructure Operations Technician, which included System Administrator duties, network monitoring & security, and general IT maintenance. 
 
