@@ -1,37 +1,27 @@
-## Welcome to GitHub Pages
+# This site is Joshua Frazer's Reading Notes for the Code Fellows series of developer courses.
 
-You can use the [editor on GitHub](https://github.com/Frazmatic/reading-notes/edit/main/README.md) to maintain and preview the content for your website in Markdown files.
+## Introduction
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+My pronouns are he/him and you can call me Josh.
 
-### Markdown
+I have about ten years of IT experience. I served eight years active duty in the USAF, where I worked positions such as Network Manager, IT Project Manager, Digital Systems Technician, and intelligence unit maintainer. After getting out, I worked for a year at the Port of Seattle as an Infrastructure Operations Technician, which included System Administrator duties, network monitoring & security, and general IT maintenance. 
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+Throughout my career, I have gained some light experience in coding. I've written Bash & Python scripts to automate tasks, analyze data, and improve user experiences. I've helped debug code in C for old Unix mainframes, and occasionally fixed, improved, or created SQL queries.
 
-```markdown
-Syntax highlighted code block
+I have a broad array of experience and education. I am a medically retired (disabled) veteran. I have lived across the US, and in Korea, Japan, Qatar, Greece, and the UK. My family is hispanic and mixed race (Latino/Asian/White). I have an AAS with a **Social Sciences** focus; an Information Systems, **Software Development** Track, AAS; certificates in Python programming; and professional management training. I have performed jobs from phone technical support to liaising with the heads of lettered federal agencies. I believe this diverse set of *social*, *technical*, and *multicultural* lenses give me an advantage in problem identification and solving.
 
-# Header 1
-## Header 2
-### Header 3
+## What is a Growth Mindset?
 
-- Bulleted
-- List
+If a person has a growth mindset, they maintain a set of attitudes which emphasize the ability to develop talents and abilities through perseverance and systematic effort. This mindset views challenges, obstacles, and failures as opportunities. By taking a confident, positive, approach when encountering a challenge, rather than avoiding it, a person is more likely to actually find a path to success. By contrast, a person with a fixed mindset would think they intrinsically can’t do it, and never give themselves a change to succeed. 
 
-1. Numbered
-2. List
+## Reminders for Maintaining A Growth Mindset
 
-**Bold** and _Italic_ and `Code` text
+1. Everyone is at a different point in their learning journey.
+2. That thing which seems like a huge nuisance today will be a satisfying accomplishment tomorrow.
+3. Things which are easy for you to do now once seemed overwhelming.
 
-[Link](url) and ![Image](src)
-```
+## Links:
 
-For more details see [Basic writing and formatting syntax](https://docs.github.com/en/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax).
+[My Github Profile](https://github.com/Frazmatic)
 
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/Frazmatic/reading-notes/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+[My LinkedIn Profile](https://www.linkedin.com/in/joshua-frazer-127219213/)
