@@ -1,6 +1,6 @@
 # Joshua Frazer's Reading Notes for the Code Fellows series of developer courses.
 
-***[Introduction](https://github.com/Frazmatic/reading-notes/blob/main/README.md#introduction) | [Growth Mindset](https://github.com/Frazmatic/reading-notes/blob/main/README.md#what-is-a-growth-mindset) | [Growth Reminders](https://github.com/Frazmatic/reading-notes/blob/main/README.md#reminders-for-maintaining-a-growth-mindset) | [Links](https://github.com/Frazmatic/reading-notes/blob/main/README.md#links)***
+[Introduction](https://github.com/Frazmatic/reading-notes/blob/main/README.md#introduction) | [Growth Mindset](https://github.com/Frazmatic/reading-notes/blob/main/README.md#what-is-a-growth-mindset) | [Growth Reminders](https://github.com/Frazmatic/reading-notes/blob/main/README.md#reminders-for-maintaining-a-growth-mindset) | [Links](https://github.com/Frazmatic/reading-notes/blob/main/README.md#links)
 
 ## Introduction
 
