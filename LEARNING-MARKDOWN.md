@@ -1,5 +1,6 @@
 ---
 layout: page
+title: "Learning Markdown"
 permalink: /learning-markdown/
 ---
 
