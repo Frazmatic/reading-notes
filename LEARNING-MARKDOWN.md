@@ -1,4 +1,4 @@
-Markdown is a system for formatting text. By adding symbols to the text file, a browser or other markdown reader can format the page. For example, by adding \* before and after a piece of text, *like so*, you can show emphasis. adding \*\* will make it appear **in bold**, and adding \*\*\* will ***do both***.
+Markdown is a system for formatting text. By adding symbols to the text file, a browser or other markdown reader can format the page. For example, by adding \* before and after a piece of text, *like so*, you can show emphasis. Adding \*\* will make it appear **in bold**, and adding \*\*\* will ***do both***.
 
 Use backticks \(\`\) to mark a block of code, for example: 
 
