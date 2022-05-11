@@ -1,6 +1,8 @@
-[Introduction](ttps://frazmatic.github.io/reading-notes/) | [Growth Mindset](https://frazmatic.github.io/reading-notes/growth-mindset) | [Learning Markdown](https://frazmatic.github.io/reading-notes/learning-markdown) | [Text Editors](https://frazmatic.github.io/reading-notes/text-editor)
-
 # Reading Notes
+
+## Navigation
+
+[Introduction](https://frazmatic.github.io/reading-notes/) | [Growth Mindset](https://frazmatic.github.io/reading-notes/growth-mindset) | [Learning Markdown](https://frazmatic.github.io/reading-notes/learning-markdown) | [Text Editors](https://frazmatic.github.io/reading-notes/text-editor)
 
 ## Introduction
 

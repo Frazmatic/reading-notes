@@ -1,6 +1,8 @@
-[Introduction](ttps://frazmatic.github.io/reading-notes/) | [Growth Mindset](https://frazmatic.github.io/reading-notes/growth-mindset) | [Learning Markdown](https://frazmatic.github.io/reading-notes/learning-markdown) | [Text Editors](https://frazmatic.github.io/reading-notes/text-editor)
-
 # Selecting a Text Editor
+
+## Navigation
+
+[Introduction](https://frazmatic.github.io/reading-notes/) | [Growth Mindset](https://frazmatic.github.io/reading-notes/growth-mindset) | [Learning Markdown](https://frazmatic.github.io/reading-notes/learning-markdown) | [Text Editors](https://frazmatic.github.io/reading-notes/text-editor)
 
 Document in your reading-notes the different classifications of text editors, and why it’s important for software developers to be thoughtful about their selection of what they use to write code.
 
@@ -10,11 +12,11 @@ Syntax highlighting does things like highlighting keywords, variables, and opera
 
 PCs often come with barebones editors such as notepad; but these don’t include coding specific features. Lightweight editors such as IDLE, Nano, and Atom include additional features such as syntax highlighting; however, their primary function is till just editing text and managing text files. Full IDEs (Integrated Developer Environments) include a suite of programming related functions. They’ll often integrate compiles, debuggers, collaborations features, the ability to generate significant amounts of boilerplate code for you, and other advanced features. The downside is that it may take a while just to learn the IDE itself. 
 
-# The Command Line
+## The Command Line
 
 When interfacing with a computer without using a graphical interface, you’ll generally be typing text commands in a terminal of some sort. On Windows systems, you can use the *Command Prompt* or *Powershell*. On Linux terminals, a “shell” interprets commands. There are several types, such as bash ( Bourne-Again Shell), ksh (Korn Shell), and zsh (Z Shell). These will differ somewhat in the specific commands used.
 
-### Cheat Sheet:
+### Cheat Sheet
 
 - pwd
   - Print Working Directory. Displays current directory.
