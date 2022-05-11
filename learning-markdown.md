@@ -1,3 +1,5 @@
+[Introduction](ttps://frazmatic.github.io/reading-notes/) | [Growth Mindset](https://frazmatic.github.io/reading-notes/growth-mindset) | [Learning Markdown](https://frazmatic.github.io/reading-notes/learning-markdown) | [Text Editors](https://frazmatic.github.io/reading-notes/text-editor)
+
 Markdown is a system for formatting text. By adding symbols to the text file, a browser or other markdown reader can format the page. For example, by adding \* before and after a piece of text, *like so*, you can show emphasis. Adding \*\* will make it appear **in bold**, and adding \*\*\* will ***do both***.
 
 Use backticks \(\`\) to mark a block of code, for example: 

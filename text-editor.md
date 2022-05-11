@@ -1,3 +1,5 @@
+[Introduction](ttps://frazmatic.github.io/reading-notes/) | [Growth Mindset](https://frazmatic.github.io/reading-notes/growth-mindset) | [Learning Markdown](https://frazmatic.github.io/reading-notes/learning-markdown) | [Text Editors](https://frazmatic.github.io/reading-notes/text-editor)
+
 # Selecting a Text Editor
 
 Document in your reading-notes the different classifications of text editors, and why it’s important for software developers to be thoughtful about their selection of what they use to write code.
