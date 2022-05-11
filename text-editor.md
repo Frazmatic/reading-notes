@@ -4,8 +4,6 @@
 
 [Introduction](https://frazmatic.github.io/reading-notes/) | [Growth Mindset](https://frazmatic.github.io/reading-notes/growth-mindset) | [Learning Markdown](https://frazmatic.github.io/reading-notes/learning-markdown) | [Text Editors](https://frazmatic.github.io/reading-notes/text-editor)
 
-Document in your reading-notes the different classifications of text editors, and why it’s important for software developers to be thoughtful about their selection of what they use to write code.
-
 A text editor is an application for writing text, as the name implies. When programming, it can be helpful to use an editor specifically designed for writing code. They include features such as highlighting syntax, code completion, spotting some formatting errors (before compiling or attempting to run the code), and installing extensions. These features can make it easier to read and write your code.
 
 Syntax highlighting does things like highlighting keywords, variables, and operators in different colors so that you can see the “structure” of your code at a glance. Code completion lets the editor “fill in” the rest of the letters for things like keywords and already defined function names; quite handy for those tip-of-tongue moments and simply avoiding typos. Editors can alert you to some common formatting errors without needing to compile or run the program; for example, failing to include a closing bracket or terminating a statement with a semicolon. It’s like a spellcheck for software development. Extensions are additional features which can be installed in the editor; such as previews of HTML documents. 
