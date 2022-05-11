@@ -15,22 +15,22 @@ When interfacing with a computer without using a graphical interface, you’ll g
 ### Cheat Sheet:
 
 - pwd
--- Print Working Directory. Displays current directory.
+  - Print Working Directory. Displays current directory.
 - ls
--- List. Displays files in current directory.
+  - List. Displays files in current directory.
 - /
--- Root directory
+  - Root directory
 - ~
--- Tilde. Shortcut for home directory.
+  - Tilde. Shortcut for home directory.
 - .
--- Dot. Reference to current directory.
+  - Dot. Reference to current directory.
 - ..
--- Dot dot. Reference to parent directory.
+  - Dot dot. Reference to parent directory.
 - cd
--- Change Directory. Changes current working to that given following the command.
+  - Change Directory. Changes current working to that given following the command.
 - file
--- Obtain information about file type
+  - Obtain information about file type
 - man
--- Manual. Shows manual page for a given command 
+  - Manual. Shows manual page for a given command 
 - Ctrl+C
--- Shortcut to cancel/kill a currently running process. Useful when stuck.
+  - Shortcut to cancel/kill a currently running process. Useful when stuck.
