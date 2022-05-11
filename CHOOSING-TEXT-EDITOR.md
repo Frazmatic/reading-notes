@@ -1,5 +1,5 @@
 ---
 layout: page
-title: "Chose a Text Editor"
+title: "Choose a Text Editor"
 permalink: /choosing-editor/
 ---
