@@ -6,7 +6,7 @@
 
 ## Wireframes
 
-*Wireframing* is essentially a diagram that describes the basic layout of a website. Generally, some sort of diagramming tool is used. It can also be done with pen & paper or a whiteboard. Paper prototypes are a common method because they are easily changed. It is a good way to describe the general information layout of the potential site and assess its interface. A good wireframe design is informed by use cases and user flow, and prototypes can be used to test out interaction.
+*Wireframing* is essentially creating a diagram that describes the basic layout of a website. Generally, some sort of diagramming tool is used. It can also be done with pen & paper or a whiteboard. Paper prototypes are a common method because they are easily changed. It is a good way to describe the general information layout of the potential site and assess its interface. A good wireframe design is informed by use cases and user flow, and prototypes can be used to test out interaction.
 
 ## HTML
 
