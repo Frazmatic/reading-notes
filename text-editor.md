@@ -2,8 +2,8 @@
 
 ## Navigation
 
-[Introduction](https://frazmatic.github.io/reading-notes/) | [Growth Mindset](https://frazmatic.github.io/reading-notes/growth-mindset) | [Learning Markdown](https://frazmatic.github.io/reading-notes/learning-markdown) | [Text Editors](https://frazmatic.github.io/reading-notes/text-editor) | [Using Git](https://frazmatic.github.io/reading-notes/using-git) | [Learning HTML](https://frazmatic.github.io/reading-notes/learning-html)
-
+[Introduction](https://frazmatic.github.io/reading-notes/) | [Growth Mindset](https://frazmatic.github.io/reading-notes/growth-mindset) | [Learning Markdown](https://frazmatic.github.io/reading-notes/learning-markdown) | [Text Editors](https://frazmatic.github.io/reading-notes/text-editor) | [Using Git](https://frazmatic.github.io/reading-notes/using-git) | [Learning HTML](https://frazmatic.github.io/reading-notes/learning-html) | [Learning CSS](https://frazmatic.github.io/reading-notes/learning-css)
+ 
 ## Text Editors
 
 A text editor is an application for writing text, as the name implies. When programming, it can be helpful to use an editor specifically designed for writing code. They include features such as highlighting syntax, code completion, spotting some formatting errors (before compiling or attempting to run the code), and installing extensions. These features can make it easier to read and write your code.
