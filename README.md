@@ -2,9 +2,17 @@
 
 ## Navigation
 
+### Code 201
+
+[Class 01]() | [Class 02]() | [Class 03]() | [Class 04]() | [Class 05]() | [Class 06]() | [Class 06]() | [Class 07]() | [Class 08]() | [Class 09]() | [Class 10]() | [Class 11]() | [Class 12]() | [Class 13]() | [Class 14]() | [Class 15]()
+
+### Code 102
+
 [Introduction](https://frazmatic.github.io/reading-notes/) | [Growth Mindset](https://frazmatic.github.io/reading-notes/growth-mindset) | [Learning Markdown](https://frazmatic.github.io/reading-notes/learning-markdown) | [Text Editors](https://frazmatic.github.io/reading-notes/text-editor) | [Using Git](https://frazmatic.github.io/reading-notes/using-git) | [Learning HTML](https://frazmatic.github.io/reading-notes/learning-html) | [Learning CSS](https://frazmatic.github.io/reading-notes/learning-css) | [Learning Javascript](https://frazmatic.github.io/reading-notes/learning-javascript) | [Learning Functions](https://frazmatic.github.io/reading-notes/learning-functions)  | [Learning Operators and Loops](https://frazmatic.github.io/reading-notes/learning-operators-and-loops)
 
 ## Introduction
+
+This is a compliation of reading notes for the Code Fellows series of course. I have completed *Code 102: Intro to Software Development*, and am currently enrolled in *Code 201: Foundations of Software Development*.
 
 My pronouns are he/him, and you can call me Josh.
 
@@ -19,3 +27,4 @@ I have a broad array of experience and education. I am a medically retired (disa
 [My Github Profile](https://github.com/Frazmatic)
 
 [My LinkedIn Profile](https://www.linkedin.com/in/joshua-frazer-127219213/)
+
