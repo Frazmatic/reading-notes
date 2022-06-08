@@ -2,7 +2,7 @@
 
 ## Why This Matters
 
-    Lists and the box model are important in presenting an easy to read, usable, site. Loops allow logic to be conditionally repeated, greatly expanding the possible behavior of a script. Arrays are very handly data structures for handling lists of related values/objects.
+Lists and the box model are important in presenting an easy to read, usable, site. Loops allow logic to be conditionally repeated, greatly expanding the possible behavior of a script. Arrays are very handly data structures for handling lists of related values/objects.
 
 ## Summary / Analogy
 
