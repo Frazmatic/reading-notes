@@ -4,7 +4,7 @@
 
 ### Code 201
 
-[Class 01](https://frazmatic.github.io/reading-notes/201/class-01) | [Class 02](https://frazmatic.github.io/reading-notes/201/class-02) | [Class 03](https://frazmatic.github.io/reading-notes/201/class-03) | [Class 04](https://frazmatic.github.io/reading-notes/201/class-04)) | [Class 05]() | [Class 06]() | [Class 06]() | [Class 07]() | [Class 08]() | [Class 09]() | [Class 10]() | [Class 11]() | [Class 12]() | [Class 13]() | [Class 14]() | [Class 15]()
+[Class 01](https://frazmatic.github.io/reading-notes/201/class-01) | [Class 02](https://frazmatic.github.io/reading-notes/201/class-02) | [Class 03](https://frazmatic.github.io/reading-notes/201/class-03) | [Class 04](https://frazmatic.github.io/reading-notes/201/class-04) | [Class 05](https://frazmatic.github.io/reading-notes/201/class-05) | [Class 06]() | [Class 06]() | [Class 07]() | [Class 08]() | [Class 09]() | [Class 10]() | [Class 11]() | [Class 12]() | [Class 13]() | [Class 14]() | [Class 15]()
 
 ### Code 102
 
