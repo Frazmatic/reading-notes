@@ -1,4 +1,4 @@
-# Class 05 Notes
+# Class 06 Notes
 
 ## Why This Matters
 
