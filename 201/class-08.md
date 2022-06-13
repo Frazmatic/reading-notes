@@ -2,7 +2,7 @@
 
 ## Why This Matters
 
-        W
+        Flexbox is a powerful method of dynamically controlling layout on a webpage.
 
 ## Questions and Answers:
 
