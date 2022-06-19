@@ -2,7 +2,7 @@
 
 ## Why This Matters
 
-
+Responsive design ensures that people accessing the site from a wide variety of devices, can all have a good user experience.
 
 ## Further Learning
 
