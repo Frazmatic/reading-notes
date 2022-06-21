@@ -8,7 +8,7 @@ It is important to identify what separates a functional team or organization fro
 
 ## Questions and Answers:
 
-### [What Google Learned From its Quest to Build the Perfect Team](https://www.google.com/amp/mobile.nytimes.com/2016/02/28/magazine/what-google-learned-from-its-quest-to-build-the-perfect-team.amp.html)
+### [What Google Learned From its Quest to Build the Perfect Team](https://www.google.com/amp/mobile.nytimes.com/2016/02/28/magazine/what-google-learned-from-its-quest-to-build-the-perfect-team.amp.html)<cite>New York Times</cite>
 
 >"a system must consist of three kinds of things: elements, interconnections and a function" 
 
