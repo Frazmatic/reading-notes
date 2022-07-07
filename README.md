@@ -1,18 +1,20 @@
 # Reading Notes
 
-## Navigation
+## Code 301 - Intermediate Software Development
 
-### Code 201
+[Class 01]()) | [Class 02]()| [Class 03]() | [Class 04]() | [Class 05]() | [Class 06]() | [Class 07]() | [Class 08]() | [Class 09]() | [Class 10]()) | [Class 11]() | [Class 12]() | [Class 13]() 
+
+## Code 201 - Foundations of Software Development
 
 [Class 01](https://frazmatic.github.io/reading-notes/201/class-01) | [Class 02](https://frazmatic.github.io/reading-notes/201/class-02) | [Class 03](https://frazmatic.github.io/reading-notes/201/class-03) | [Class 04](https://frazmatic.github.io/reading-notes/201/class-04) | [Class 05](https://frazmatic.github.io/reading-notes/201/class-05) | [Class 06](https://frazmatic.github.io/reading-notes/201/class-06) | [Class 07](https://frazmatic.github.io/reading-notes/201/class-07) | [Class 08](https://frazmatic.github.io/reading-notes/201/class-08) | [Class 09](https://frazmatic.github.io/reading-notes/201/class-09) | [Class 10](https://frazmatic.github.io/reading-notes/201/class-10) | [Class 11](https://frazmatic.github.io/reading-notes/201/class-11) | [Class 12](https://frazmatic.github.io/reading-notes/201/class-12) | [Class 13](https://frazmatic.github.io/reading-notes/201/class-13) | [Class 14a](https://frazmatic.github.io/reading-notes/201/class-14a) | [Class 14b](https://frazmatic.github.io/reading-notes/201/class-14b)
 
-### Code 102
+## Code 102 - Intro to Software Development
 
 [Introduction](https://frazmatic.github.io/reading-notes/) | [Growth Mindset](https://frazmatic.github.io/reading-notes/growth-mindset) | [Learning Markdown](https://frazmatic.github.io/reading-notes/learning-markdown) | [Text Editors](https://frazmatic.github.io/reading-notes/text-editor) | [Using Git](https://frazmatic.github.io/reading-notes/using-git) | [Learning HTML](https://frazmatic.github.io/reading-notes/learning-html) | [Learning CSS](https://frazmatic.github.io/reading-notes/learning-css) | [Learning Javascript](https://frazmatic.github.io/reading-notes/learning-javascript) | [Learning Functions](https://frazmatic.github.io/reading-notes/learning-functions)  | [Learning Operators and Loops](https://frazmatic.github.io/reading-notes/learning-operators-and-loops)
 
 ## Introduction
 
-This is a compliation of reading notes for the Code Fellows series of course. I have completed *Code 102: Intro to Software Development*, and am currently enrolled in *Code 201: Foundations of Software Development*.
+This is a compilation of reading notes for the Code Fellows series of course. I have completed *Code 102: Intro to Software Development*, *Code 201: Foundations of Software Development*, and am currently enrolled in *Code 301: Intermediate Software Development*.
 
 My pronouns are he/him, and you can call me Josh.
 
