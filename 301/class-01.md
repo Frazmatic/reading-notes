@@ -2,19 +2,19 @@
 
 ## Significance
 
-    Component Based Architecture and Props flow are the fundamental design philosophy of React.
+Component Based Architecture and Props flow are the fundamental design philosophy of React.
 
 ## Things I want to know more about
 
-    I'm still not 100% on creating and using React components and using this weird hybrid syntax (jsx?).
+I'm still not 100% on creating and using React components and using this weird hybrid syntax (jsx?).
 
 ## Questions:
 
-    In systems thinking, a system is defined by its components, their interfaces, and functionality. The elements (components) of a system have stocks (states/properties) and flows (as in data). I like that this paradigm seems to follow good systems thinking principles. 
+In systems thinking, a system is defined by its components, their interfaces, and functionality. The elements (components) of a system have stocks (states/properties) and flows (as in data). I like that this paradigm seems to follow good systems thinking principles. 
 
-    Who wrote this Tutorials Point article? It contains so much over-elaborate, yet vague, language. For example, "Unit of composition" can be anything from a paragraph (writing) to a squad (military). They could have said "building block". "Depend on abstractions component do not depend on other concrete components, which increase difficulty in expendability" is barely even English. There are also tons of sentence fragments (missing subjects) and seems like they need to put down the thesaurus. There's no author listed; I wouldn't put my name on this either. 
+Who wrote this Tutorials Point article? It contains so much over-elaborate, yet vague, language. For example, "Unit of composition" can be anything from a paragraph (writing) to a squad (military). They could have said "building block". "Depend on abstractions component do not depend on other concrete components, which increase difficulty in expendability" is barely even English. There are also tons of sentence fragments (missing subjects) and seems like they need to put down the thesaurus. There's no author listed; I wouldn't put my name on this either. 
 
-    We probably should have talked (or at least read) about interfaces and abstract classes before this. I'm familiar from courses I've taken in the past, but I'm we haven't talked about this much at Code Fellows; it may confuse students.
+We probably should have talked (or at least read) about interfaces and abstract classes before this. I'm familiar from courses I've taken in the past, but I'm we haven't talked about this much at Code Fellows; it may confuse students.
 
 ### [Component-Based Architecture](https://www.tutorialspoint.com/software_architecture_design/component_based_architecture.htm)
 
