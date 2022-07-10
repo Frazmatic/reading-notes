@@ -2,7 +2,7 @@
 
 ## Significance
 
-
+Use of these concepts results in readable, maintainable, design with functionality broken down into basic parts. This facilitates implementing the desired behavior.
 
 ## Things I want to know more about
 
