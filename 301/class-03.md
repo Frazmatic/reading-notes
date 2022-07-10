@@ -2,7 +2,7 @@
 
 ## Significance
 
-
+This allows us to work with arrays/lists within React to to create elements with React components. Passing functions through props allows us to do things like accessing parent component state. With both we can now process objects/arrays stored in state within child components.
 
 ## Things I want to know more about
 
