@@ -28,8 +28,16 @@ A protocol that allows machines to make requests for resources via a network, an
 
 4. What does a `GET` do?
 
-Requests a resource from a web server.
+*Requests* a resource from a web server.
 
 5. What does a `POST` do?
 
-Adds a resource to a web server.
+(Tries to) *Add* a resource to a web server.
+
+6. What does `PUT` do?
+
+For *replacing* something in another system
+
+7. What does `PATCH` do
+
+For *modifying/updating* something in another system.
