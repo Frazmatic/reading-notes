@@ -51,10 +51,16 @@ It means you could replace the expression with its resulting value and it wouldn
 
 1. What is a module?
 
-
+A JavaScript file of conceptually related code that can be imported into another JavaScript file for use of its classes, functions, etc.
 
 2. What does the word ‘require’ do?
+
+Imports the exported portion of the module and returns an object which can be assigned to a variable and used as the imported object.
+
 3. How do we bring another module into the file the we are working in?
+
+ In the file using it, `const aVariableName = require('./pathToTheFileBeingImmported')`. You can then use the exported component with 'aVariableName' as the function/object name.
+
 4. What do we have to do to make a module available?
 
-
+In the file being exported from `module.export = <object/function>` where object is the part(s) of the module you want to use in the other JS program.
