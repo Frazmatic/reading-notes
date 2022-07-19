@@ -14,7 +14,7 @@ Functional programming is a useful paradigm for modelling many types of problem 
 
 [Functional Programming Concepts](https://medium.com/the-renaissance-developer/concepts-of-functional-programming-in-javascript-6bc84220d2aa)
 
-I'm out of my two free Medium articles, and when I viewing in incognito mode all of the exmaple code was missing, making the article difficult to understand. For instance:
+I'm out of my two free Medium articles, and when I was viewing in incognito mode all of the exmaple code was missing, making the article difficult to understand. For instance:
 
 ![Screenshot of the Medium article](./MediumArticle.png)
 
