@@ -4,11 +4,9 @@
 
 Functional programming is a useful paradigm for modelling many types of problem domains.
 
-
-
 ## Things I want to know more about
 
-
+Best practices for creating and importing my own modules.
 
 ## Questions:
 
