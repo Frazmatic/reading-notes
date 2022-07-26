@@ -2,10 +2,11 @@
 
 ## Significance
 
+There are fundamental differences between the two types of databases in common use; knowing about them is important to using them.
 
 ## Things I want to know more about
 
-
+I'd like to learn PostgreSQL as well as MongoDB.
 
 ## Questions:
 
